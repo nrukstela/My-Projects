@@ -1,0 +1,60 @@
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\bin\Debug\WpfApp2.exe.config
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\bin\Debug\WpfApp2.exe
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\bin\Debug\WpfApp2.pdb
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2.csprojResolveAssemblyReference.cache
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\obj\Debug\MainWindow.g.cs
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\obj\Debug\App.g.cs
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\obj\Debug\MainWindow.baml
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2.g.resources
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.Cache
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2.exe
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2.pdb
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\bin\Debug\ComputerShopBackend.exe
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\bin\Debug\ComputerShopBackend.pdb
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\bin\Debug\ComputerShopBackend.exe.config
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\obj\Debug\ComputerShopAdmin.g.cs
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\WpfApp2\obj\Debug\ComputerShopAdmin.baml
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\bin\Debug\WpfApp2.exe.config
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\bin\Debug\WpfApp2.exe
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\bin\Debug\WpfApp2.pdb
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\bin\Debug\ComputerShopBackend.exe
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\bin\Debug\ComputerShopBackend.pdb
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\bin\Debug\ComputerShopBackend.exe.config
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2.csprojResolveAssemblyReference.cache
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\obj\Debug\ComputerShopAdmin.g.cs
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\obj\Debug\MainWindow.g.cs
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\obj\Debug\App.g.cs
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\obj\Debug\ComputerShopAdmin.baml
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\obj\Debug\MainWindow.baml
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2.g.resources
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.Cache
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2.exe
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\bin\Debug\ComputerShopBackend.exe
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\bin\Debug\ComputerShopBackend.pdb
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\bin\Debug\ComputerShopBackend.exe.config
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\obj\Debug\WpfApp2.csprojResolveAssemblyReference.cache
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\obj\Debug\ComputerShopAdmin.g.cs
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\obj\Debug\App.g.cs
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\obj\Debug\ComputerShopAdmin.baml
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.Cache
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\WpfApp2\obj\Debug\WpfApp2.pdb

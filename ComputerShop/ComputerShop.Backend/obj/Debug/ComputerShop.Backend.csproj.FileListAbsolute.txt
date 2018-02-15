@@ -1,0 +1,28 @@
+c:\users\mindaugas\source\repos\ComputerShop.Backend\ComputerShop.Backend\bin\Debug\ComputerShopBackend.exe.config
+c:\users\mindaugas\source\repos\ComputerShop.Backend\ComputerShop.Backend\bin\Debug\ComputerShopBackend.exe
+c:\users\mindaugas\source\repos\ComputerShop.Backend\ComputerShop.Backend\bin\Debug\ComputerShopBackend.pdb
+c:\users\mindaugas\source\repos\ComputerShop.Backend\ComputerShop.Backend\obj\Debug\ComputerShop.Backend.csproj.CoreCompileInputs.cache
+c:\users\mindaugas\source\repos\ComputerShop.Backend\ComputerShop.Backend\obj\Debug\ComputerShopBackend.exe
+c:\users\mindaugas\source\repos\ComputerShop.Backend\ComputerShop.Backend\obj\Debug\ComputerShopBackend.pdb
+c:\users\mindaugas\source\repos\ComputerShop.Backend\ComputerShop.Backend\obj\Debug\ComputerShop.Backend.csprojResolveAssemblyReference.cache
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\ComputerShop.Backend\bin\Debug\ComputerShopBackend.exe.config
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\ComputerShop.Backend\bin\Debug\ComputerShopBackend.exe
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\ComputerShop.Backend\bin\Debug\ComputerShopBackend.pdb
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\ComputerShop.Backend\obj\Debug\ComputerShop.Backend.csprojResolveAssemblyReference.cache
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\ComputerShop.Backend\obj\Debug\ComputerShop.Backend.csproj.CoreCompileInputs.cache
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\ComputerShop.Backend\obj\Debug\ComputerShopBackend.exe
+E:\programos\1 C#\Padare minde\ComputerShop.Backend\ComputerShop.Backend\obj\Debug\ComputerShopBackend.pdb
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\ComputerShop.Backend\bin\Debug\ComputerShopBackend.exe.config
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\ComputerShop.Backend\bin\Debug\ComputerShopBackend.exe
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\ComputerShop.Backend\bin\Debug\ComputerShopBackend.pdb
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\ComputerShop.Backend\obj\Debug\ComputerShop.Backend.csprojResolveAssemblyReference.cache
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\ComputerShop.Backend\obj\Debug\ComputerShop.Backend.csproj.CoreCompileInputs.cache
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\ComputerShop.Backend\obj\Debug\ComputerShopBackend.exe
+E:\Programos\2017 vasara\1 C#\10 TenthCourseMinde\ComputerShop.Backend\ComputerShop.Backend\obj\Debug\ComputerShopBackend.pdb
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\ComputerShop.Backend\bin\Debug\ComputerShopBackend.exe.config
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\ComputerShop.Backend\bin\Debug\ComputerShopBackend.exe
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\ComputerShop.Backend\bin\Debug\ComputerShopBackend.pdb
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\ComputerShop.Backend\obj\Debug\ComputerShop.Backend.csprojResolveAssemblyReference.cache
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\ComputerShop.Backend\obj\Debug\ComputerShop.Backend.csproj.CoreCompileInputs.cache
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\ComputerShop.Backend\obj\Debug\ComputerShopBackend.exe
+C:\Users\Teofilijus\Desktop\bbuuuu\ComputerShop\ComputerShop.Backend\obj\Debug\ComputerShopBackend.pdb
